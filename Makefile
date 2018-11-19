@@ -2,7 +2,7 @@ all:
 	run
 
 run:
-	docker run -it ubuntu:hvn
+	docker run -it hvnsweeting:uman
 
 build:
-	docker build . -t ubuntu:hvn && docker images | grep ubuntu | grep hvn
+	docker build . -t hvnsweeting:uman && docker images | grep uman
