@@ -1,8 +1,10 @@
 # Uman - ubuntu man container
 
-If you are using OSX but servers are running Ubuntu, readding Ubuntu manpages
-is a need.
+If you are using OSX but servers are running Ubuntu, reading Ubuntu manpages
+is a MUST.
+
 Though Ubuntu has online manpages, a local would be nice.
+This provides one.
 
 ## Run it
 Put these aliases in your `~/.bashrc`
