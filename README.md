@@ -5,4 +5,9 @@ is a need.
 Though Ubuntu has online manpages, a local would be nice.
 
 ## Run it
-Put these alias in your `~/.bashrc`
+Put these aliases in your `~/.bashrc`
+
+```sh
+alias uman='docker run -it hvnsweeting/uman man'
+alias umanit='docker run -it hvnsweeting/uman'  # uman interactive
+```
