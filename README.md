@@ -6,5 +6,3 @@ Though Ubuntu has online manpages, a local would be nice.
 
 ## Run it
 Put these alias in your `~/.bashrc`
-
-TODO
