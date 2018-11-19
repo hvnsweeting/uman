@@ -13,3 +13,9 @@ Put these aliases in your `~/.bashrc`
 alias uman='docker run -it hvnsweeting/uman man'
 alias umanit='docker run -it hvnsweeting/uman'  # uman interactive
 ```
+
+Then open manpage for `bash` by:
+
+```sh
+$ uman bash
+```
